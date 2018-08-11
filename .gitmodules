@@ -1,0 +1,3 @@
+[submodule "opensgx"]
+	path = opensgx
+	url = git@github.com:sslab-gatech/opensgx.git
