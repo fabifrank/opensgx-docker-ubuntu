@@ -1,6 +1,6 @@
 # OpenSGX Docker Image
 
-Docker container to spin up a opensgx instance based on Ubuntu. This image is also on Docker Hub at [https://hub.docker.com/r/fabifrank/opensgx-ubuntu/](https://hub.docker.com/r/fabifrank/opensgx-ubuntu/).
+Docker container to spin up a opensgx instance (without hardware requirements) based on Ubuntu. This image is also on Docker Hub at [https://hub.docker.com/r/fabifrank/opensgx-ubuntu/](https://hub.docker.com/r/fabifrank/opensgx-ubuntu/).
 
 ## Get Image from Docker Hub
 
